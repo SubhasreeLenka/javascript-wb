@@ -7,7 +7,7 @@
             }  
 */
 
-/*const jsUsers ={
+const jsUsers ={
                     name : "Sony",
                     email : "subhashreelenka56@gmail.com",
                     "full Name" : "Subhasree Lenka",         // when we take more than one word in key then we write it within "".
@@ -37,9 +37,9 @@ jsUsers.grettingTwo = function(){
 }
 jsUsers.gretting();
 jsUsers.grettingTwo();
-*/
 
-/*const tinderUser ={}
+
+const tinderUser ={}
 tinderUser.id ="1234",
 tinderUser.email = "Sony@gmail.com",
 tinderUser.name="Sony"
@@ -56,9 +56,9 @@ const regularUser={
     }
 }
 console.log(regularUser.fullName.userFullName.FirstName);
-*/
 
-/*const obj1={
+
+const obj1={
     1:"a",
     2:"b"
 }
@@ -74,7 +74,7 @@ const obj4 ={obj1,obj2};
 console.log(obj4);
 const obj5={...obj1,...obj2,...obj3}
 console.log(obj5)
-*/
+
 
 //Object deStructuring
 
