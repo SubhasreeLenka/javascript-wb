@@ -1,0 +1,24 @@
+js is Synchronous.
+js is single threaded.
+
+Event looop
+-------------------
+js engine has 2 types of memory : 
+    1. heap memory              : Add data through referrence 
+
+    2. Call Stack       :-fn3
+                        :-fn2
+                        :-fn1
+                        :-global function
+
+
+Web API
+----------------
+
+1. DOM API
+2. setTimeOut   :- Register call Stack
+3. setInterval
+4. fetch ()     :- promises
+
+Queue Stack
+--------------------
